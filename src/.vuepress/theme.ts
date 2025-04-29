@@ -65,7 +65,7 @@ export default hopeTheme({
       // Zhihu: "https://example.com",
       VuePressThemeHope: {
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
+        link: "",
       },
     },
   },
