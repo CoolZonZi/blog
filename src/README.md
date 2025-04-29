@@ -6,12 +6,12 @@ title: Zhuo的博客
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 拆掉思维的墙
 heroFullScreen: true
-tagline: 学无止境
+tagline: 纯粹的热爱铸就未来
 projects:
   - icon: folder-open
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 粽子社区
+    desc: 个人项目，用于信息记录
+    link: http://czcmp.top:84/
 
   - icon: link
     name: 链接名称
@@ -43,6 +43,5 @@ footer: 自定义你的页脚文字
 
 这是一个博客主页的案例。
 
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
 
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
+我的博客社区 [粽子社区](http://czcmp.top:84/)
